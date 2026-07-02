@@ -1,3 +1,3 @@
-# Fredericksburg 2026
+# Fredericksburg 2026 Final
 
-Static GitHub Pages travel guide. Upload all files to the repository root and enable Pages from main / root.
+Upload all files to the repository root. Enable GitHub Pages from main / root.
